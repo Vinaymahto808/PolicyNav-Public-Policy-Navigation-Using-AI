@@ -1,0 +1,7 @@
+streamlit>=1.24
+pandas
+python-docx
+PyPDF2
+ollama
+sentence-transformers
+faiss-cpu
