@@ -50,3 +50,9 @@ Special thanks to our faculty for guidance and review.
 
 ---
 
+## 📜 License
+ 
+MIT License — feel free to use, modify, and distribute for personal and educational purposes.
+
+---
+
