@@ -15,7 +15,7 @@ pdfplumber, pytesseract, pdf2image
 Tessaract OCR
 Ollama (local LLM API)
 📦 Installation
-git clone https://github.com/<your-username>/PolicyNav-Public-Policy-Navigation-Using-AI.git
+git clone https://github.com/Vinaymahto808/PolicyNav-Public-Policy-Navigation-Using-AI.git
 cd PolicyNav-Public-Policy-Navigation-Using-AI
 pip install -r requirements.txt
 streamlit run app.py
